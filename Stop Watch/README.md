@@ -3,6 +3,11 @@
 ## Project Description
 A digital Stop Watch implemented using the ATmega32 microcontroller. The system counts time in **Hours:Minutes:Seconds** format and displays it on six multiplexed 7-segment displays.
 
+## 📺 Project Demo
+*Watch the system in action.*
+
+[**▶️ Watch the Hardware Simulation Video**](SW/assets/demo.mp4)
+
 ## Features
 - **Time Counting**: Accurately counts seconds, minutes, and hours using Timer1 in CTC mode.
 - **Display**: Six 7-segment displays driven by a multiplexing technique to save I/O pins.
