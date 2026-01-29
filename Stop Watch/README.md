@@ -7,7 +7,6 @@ A digital Stop Watch implemented using the ATmega32 microcontroller. The system 
 *Watch the system in action.*
 
 [**▶️ Watch the Hardware Simulation Video**](SW/assets/demo.mp4)
-[![Watch Video](SW/assets/video_placeholder.png)](SW/assets/demo.mp4)
 
 ## Features
 - **Time Counting**: Accurately counts seconds, minutes, and hours using Timer1 in CTC mode.
