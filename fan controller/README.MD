@@ -17,6 +17,7 @@ The system continuously displays the **Temperature** and **Fan State** on a 16x2
 *Watch the system automatically adjust speed as the temperature rises.*
 
 [**▶️ Watch the Hardware Simulation Video**](assets/demo.mp4)
+[![Watch Video](assets/video_placeholder.png)](assets/demo.mp4)
 
 ## 🧠 System Logic & Speed Control
 The system operates based on five distinct temperature ranges. The fan speed is controlled via **PWM (Pulse Width Modulation)** signals to the DC Motor driver.
